@@ -1,1 +1,1 @@
-This is my first project on TOP gitgitgitgit
+Hi there this is my first project in The Odin Project 
